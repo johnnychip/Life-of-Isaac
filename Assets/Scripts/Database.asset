@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 894cd8d07a9f37a4d8cb92bf19f50794, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  decision:
+  - codePoint: 0
+    codeNextPoint: 0100000007000000
+    decisionOptions:
+    - "Ba\xF1arse"
+    - Desayunar
+    myImage: {fileID: 21300000, guid: ccad58a0a6666914d81356f6c38a0da1, type: 3}
+  - codePoint: 1
+    codeNextPoint: 0200000003000000
+    decisionOptions:
+    - Vestires
+    - "Ba\xF1arse"
+    myImage: {fileID: 21300000, guid: 48ba87c4f41249b4b8855633dac6e290, type: 3}
+  - codePoint: 2
+    codeNextPoint: 04000000
+    decisionOptions:
+    - Desayunar
+    myImage: {fileID: 21300000, guid: 2c6876a5dc8ad8543be05af46b7eee60, type: 3}
+  - codePoint: 3
+    codeNextPoint: 05000000
+    decisionOptions:
+    - Vestirse
+    myImage: {fileID: 21300000, guid: fc9106d738608bb458616598c8d9b636, type: 3}
+  - codePoint: 4
+    codeNextPoint: 06000000
+    decisionOptions:
+    - Ir a la escuela
+    myImage: {fileID: 21300000, guid: fc9106d738608bb458616598c8d9b636, type: 3}
+  - codePoint: 5
+    codeNextPoint: 06000000
+    decisionOptions:
+    - Ir a la escuela
+    myImage: {fileID: 21300000, guid: 2c6876a5dc8ad8543be05af46b7eee60, type: 3}
+  - codePoint: 6
+    codeNextPoint: 
+    decisionOptions: []
+    myImage: {fileID: 21300000, guid: 9d58226eaeadcdd4f8e060e2ecf343fd, type: 3}
+  - codePoint: 7
+    codeNextPoint: 08000000
+    decisionOptions:
+    - "Ba\xF1arse"
+    myImage: {fileID: 21300000, guid: fc9106d738608bb458616598c8d9b636, type: 3}
+  - codePoint: 8
+    codeNextPoint: 09000000
+    decisionOptions:
+    - Vestirse
+    myImage: {fileID: 21300000, guid: 48ba87c4f41249b4b8855633dac6e290, type: 3}
+  - codePoint: 9
+    codeNextPoint: 0a0000000b000000
+    decisionOptions:
+    - Ir a la escuela
+    - No ir a la escuela
+    myImage: {fileID: 21300000, guid: 2c6876a5dc8ad8543be05af46b7eee60, type: 3}
+  - codePoint: 10
+    codeNextPoint: 
+    decisionOptions: []
+    myImage: {fileID: 21300000, guid: 9d58226eaeadcdd4f8e060e2ecf343fd, type: 3}
+  - codePoint: 11
+    codeNextPoint: 
+    decisionOptions: []
+    myImage: {fileID: 21300000, guid: 5fbf936dd1a6f2440800103455afaf12, type: 3}
