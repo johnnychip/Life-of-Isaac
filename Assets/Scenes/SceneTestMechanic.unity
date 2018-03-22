@@ -122,6 +122,7 @@ GameObject:
   m_Component:
   - component: {fileID: 148435318}
   - component: {fileID: 148435317}
+  - component: {fileID: 148435319}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -147,6 +148,7 @@ MonoBehaviour:
   - {fileID: 1232180325}
   - {fileID: 1474593225}
   - {fileID: 283628199}
+  mySaveM: {fileID: 148435319}
 --- !u!4 &148435318
 Transform:
   m_ObjectHideFlags: 0
@@ -160,6 +162,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &148435319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 148435316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 056f2a04383663c4e9ac5abcf6517aa4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &165384267
 GameObject:
   m_ObjectHideFlags: 0

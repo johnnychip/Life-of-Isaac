@@ -14,6 +14,9 @@ public class GameManager : MonoBehaviour {
 	[SerializeField]
 	private Button[] myButtons;
 
+	[SerializeField]
+	private SaveGameFunc mySaveM;
+
 	private int currentPointCode;
 
 	private DecisionPoint currentPoint;
@@ -25,11 +28,15 @@ public class GameManager : MonoBehaviour {
 
 	public void SetUpPoint()
 	{
+		currentPointCode = mySaveM.LoadGame();
+
 		currentPoint = myDataBase.decision[currentPointCode];
 
 		myImage.sprite = currentPoint.myImage;
 		
 		SetUpButtons(currentPoint.decisionOptions.Length);
+
+		Debug.Log("hola mundo");
 
 	}
 
@@ -51,25 +58,30 @@ public class GameManager : MonoBehaviour {
 
 	public void SetOption0()
 	{
-		currentPointCode = currentPoint.codeNextPoint[0];
-		SetUpPoint();
+		SetUpCurrentPointCode(currentPoint.codeNextPoint[0]);
 	}
 
 	public void SetOption1()
 	{
-		currentPointCode = currentPoint.codeNextPoint[1];
-		SetUpPoint();
+		SetUpCurrentPointCode(currentPoint.codeNextPoint[1]);
 	}
 
 	public void SetOption2()
 	{
-		currentPointCode = currentPoint.codeNextPoint[2];
-		SetUpPoint();
+		SetUpCurrentPointCode(currentPoint.codeNextPoint[2]);
 	}
 
 	public void SetOption3()
 	{
-		currentPointCode = currentPoint.codeNextPoint[3];
+
+		SetUpCurrentPointCode(currentPoint.codeNextPoint[3]);
+
+	}
+
+	private void SetUpCurrentPointCode(int pointToChange)
+	{
+		currentPointCode = pointToChange;
+		mySaveM.SaveProgress(pointToChange);
 		SetUpPoint();
 	}
 
