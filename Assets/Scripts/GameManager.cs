@@ -36,7 +36,7 @@ public class GameManager : MonoBehaviour {
 		
 		SetUpButtons(currentPoint.decisionOptions.Length);
 
-		Debug.Log("hola mundo41");
+		Debug.Log("hola mundo42");
 
 	}
 
