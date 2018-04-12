@@ -23,4 +23,9 @@ public class SaveGameFunc : MonoBehaviour {
 	{
 		return PlayerPrefs.GetInt("Progress",0);
 	}
+
+	public void ResetGameSaved()
+	{
+		PlayerPrefs.DeleteAll();
+	}
 }
