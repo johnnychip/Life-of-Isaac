@@ -20,6 +20,11 @@ public class DecisionPoint {
 
 	public Sprite myImage;
 
+	public AudioClip myClip;
+
+	public bool isFinalFrame;
+
+	public int nextScene;
 	public DecisionPoint(DecisionPoint clone)
 	{
 		this.codePoint = clone.codePoint;

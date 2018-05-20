@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEditor.SceneManagement;
 
 public class GameManager : MonoBehaviour {
 
@@ -16,6 +17,9 @@ public class GameManager : MonoBehaviour {
 
 	[SerializeField]
 	private SaveGameFunc mySaveM;
+
+	[SerializeField]
+	private AudioSource myAudio;
 
 	private int currentPointCode;
 
@@ -32,11 +36,17 @@ public class GameManager : MonoBehaviour {
 
 		currentPoint = myDataBase.decision[currentPointCode];
 
+		if(currentPoint.myClip!=null)
+		{
+			myAudio.clip = currentPoint.myClip;
+
+			myAudio.Play();
+		}
+
 		myImage.sprite = currentPoint.myImage;
 		
 		SetUpButtons(currentPoint.decisionOptions.Length);
 
-		Debug.Log("hola mundo60");
 
 	}
 
@@ -58,7 +68,13 @@ public class GameManager : MonoBehaviour {
 
 	public void SetOption0()
 	{
-		SetUpCurrentPointCode(currentPoint.codeNextPoint[0]);
+		if(currentPoint.isFinalFrame)
+		{
+			NextScene(currentPoint.nextScene);
+		}else
+		{
+			SetUpCurrentPointCode(currentPoint.codeNextPoint[0]);
+		}
 	}
 
 	public void SetOption1()
@@ -80,9 +96,16 @@ public class GameManager : MonoBehaviour {
 
 	private void SetUpCurrentPointCode(int pointToChange)
 	{
+
 		currentPointCode = pointToChange;
 		mySaveM.SaveProgress(pointToChange);
 		SetUpPoint();
+
+	}
+
+	public void NextScene(int sceneNum)
+	{
+		EditorSceneManager.LoadScene(0);
 	}
 
 
