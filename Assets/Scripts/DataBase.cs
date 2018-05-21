@@ -22,7 +22,11 @@ public class DecisionPoint {
 
 	public AudioClip myClip;
 
+	public AudioClip song;
+
 	public bool isFinalFrame;
+
+	public bool isTimeToChangeSong;
 
 	public int nextScene;
 	public DecisionPoint(DecisionPoint clone)

@@ -18,7 +18,9 @@ MonoBehaviour:
     - "Mi \xFAltimo a\xF1o escolar sigue siendo igual de pat\xE9tico\u2026"
     myImage: {fileID: 21300000, guid: ffac407a3f7b0d14490d1424c490f4dd, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 1
     codeNextPoint: 02000000
@@ -26,7 +28,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: d93f1c3cd8c982941903f0156f4b6be0, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 2
     codeNextPoint: 03000000
@@ -35,7 +39,9 @@ MonoBehaviour:
       que asco\u2026"
     myImage: {fileID: 21300000, guid: 98f3d333b0f7c8146b75278fe7327d29, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 3
     codeNextPoint: 04000000
@@ -43,7 +49,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: f81bdddeaf778124f8ddf40afc00a73c, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 4
     codeNextPoint: 05000000
@@ -52,7 +60,9 @@ MonoBehaviour:
       en mi casillero, oh Stephen, supongo que tu no me llevaras a ninguna fiesta\u2026"
     myImage: {fileID: 21300000, guid: 2a38612ce9c8ffa4a965cf77dd9b2e8e, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 5
     codeNextPoint: 06000000
@@ -60,7 +70,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 3287304c0546c7e438e14bf91ab77b56, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 6
     codeNextPoint: 07000000
@@ -68,7 +80,9 @@ MonoBehaviour:
     - "\xBFQue pasa \u201Craro\u201D no eres lo suficientemente r\xE1pido?"
     myImage: {fileID: 21300000, guid: 66d115ffec979f144addce27e833e298, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 8300000, guid: 21a5eb9ffcb61f34eb1aadfe0354af92, type: 3}
     isFinalFrame: 0
+    isTimeToChangeSong: 1
     nextScene: 0
   - codePoint: 7
     codeNextPoint: 08000000
@@ -76,7 +90,9 @@ MonoBehaviour:
     - "Mu\xE9rete est\xFApido. No sabes lo que haces."
     myImage: {fileID: 21300000, guid: 65bdc2f2b80683e45a248d5b249651c8, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 8
     codeNextPoint: 09000000
@@ -84,7 +100,9 @@ MonoBehaviour:
     - "Te vieron en los vestuarios, devu\xE9lvenos a la mascota del equipo."
     myImage: {fileID: 21300000, guid: b01b392712b4ff8488087fd1b6ce089e, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 9
     codeNextPoint: 0a000000
@@ -92,7 +110,9 @@ MonoBehaviour:
     - "No s\xE9 de qu\xE9 hablas."
     myImage: {fileID: 21300000, guid: b4266c0bf496df54ca0b60d65616e4f3, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 10
     codeNextPoint: 0b000000
@@ -100,7 +120,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 95c93522199e7814caa7d72172798aa1, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 11
     codeNextPoint: 0c000000
@@ -108,7 +130,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 6c3fdf3f7193f2c45a34518fcbaaf5cd, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 12
     codeNextPoint: 0d000000
@@ -116,7 +140,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 682604a1b2d64f647a9caa2e894b0026, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 13
     codeNextPoint: 0e000000
@@ -124,7 +150,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 55967075c6224d14a94987d7cf3b6ede, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 14
     codeNextPoint: 0f000000
@@ -132,7 +160,9 @@ MonoBehaviour:
     - Buen intento viejo.
     myImage: {fileID: 21300000, guid: 19f860d199d07f44ea64be79ea193b2f, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 15
     codeNextPoint: 10000000
@@ -140,7 +170,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: b3cec4ceed0bd014c9e7208e65ffeb57, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 16
     codeNextPoint: 11000000
@@ -148,7 +180,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 56f81e26d4fcd4a48b2eda5cc1f13ff7, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 17
     codeNextPoint: 12000000
@@ -156,7 +190,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: a9dde406036abb44fb5e5f2e4cc94050, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 18
     codeNextPoint: 13000000
@@ -164,7 +200,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 0e1ddd3f7922f7d4295575e4b9577b36, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 8300000, guid: 73ca3b906277f2244b40db673f9381f6, type: 3}
     isFinalFrame: 0
+    isTimeToChangeSong: 1
     nextScene: 0
   - codePoint: 19
     codeNextPoint: 14000000
@@ -172,7 +210,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 8954ea4bd6dd2524e812b5e73af8a96c, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 20
     codeNextPoint: 15000000
@@ -180,7 +220,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 5b17b9669575fbe4c9fa441c7969203f, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 21
     codeNextPoint: 16000000
@@ -188,7 +230,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: dd8071aa3c299e044a02c89b1261e82f, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 22
     codeNextPoint: 17000000
@@ -196,7 +240,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 5dbbfa3884edb36489276acbf3f679d6, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 23
     codeNextPoint: 18000000
@@ -204,7 +250,9 @@ MonoBehaviour:
     - Diablos, no viste nada.
     myImage: {fileID: 21300000, guid: 1a45617a431ab294c81b5769a738bafd, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 24
     codeNextPoint: 1900000019000000
@@ -213,7 +261,9 @@ MonoBehaviour:
     - Dejame ayudarte
     myImage: {fileID: 21300000, guid: e1f6175773533f04eb039596f286c049, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 25
     codeNextPoint: 1a000000
@@ -221,7 +271,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 84e58b993a7b39844a6577604bc1dd61, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 26
     codeNextPoint: 1b000000
@@ -229,7 +281,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: fae9a83d3c78a58419a345b5a62333ad, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 27
     codeNextPoint: 1c000000
@@ -238,7 +292,9 @@ MonoBehaviour:
       alg\xFAn lugar\u2026"
     myImage: {fileID: 21300000, guid: 39f3eaaf65aea75428f6274bdb1d756f, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 28
     codeNextPoint: 1d000000
@@ -246,7 +302,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 67b129ffd56fe714092a9f3819c8fc9b, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 29
     codeNextPoint: 1e000000
@@ -254,7 +312,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 96d810d31ca57944f9bcba9942e62739, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 30
     codeNextPoint: 1f000000
@@ -262,7 +322,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 3e4ac9a731d3e5c47864a7f11949e081, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 8300000, guid: e64b40c47899bb745bfe0b21465c5d29, type: 3}
     isFinalFrame: 0
+    isTimeToChangeSong: 1
     nextScene: 0
   - codePoint: 31
     codeNextPoint: 20000000
@@ -270,7 +332,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: a793cb509ad61a14d85ef63841144492, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 32
     codeNextPoint: 21000000
@@ -278,7 +342,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 51866fed5b546544a9fe88306396ea27, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 33
     codeNextPoint: 22000000
@@ -287,7 +353,9 @@ MonoBehaviour:
       Bata de\u2026 "
     myImage: {fileID: 21300000, guid: 90185de087d0cbc408c68a0bf41aa4b1, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 34
     codeNextPoint: 23000000
@@ -295,7 +363,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 7014c643b0f86f849bc8b062eab5563d, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 35
     codeNextPoint: 24000000
@@ -303,16 +373,20 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: a45425d3409921445bfb0ebb3e4ad815, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 36
     codeNextPoint: 25000000
     decisionOptions:
-    - "J\xF3venes, tenemos con nosotros a una nueva estudiante que viene de Oregon,
+    - "iene de Oregon, la se\xF1orita Jana Gray\u2026eva estudiante que viene de Oregon,
       la se\xF1orita Jana Gray\u2026"
     myImage: {fileID: 21300000, guid: 70d214355de4ed04b9f70d0b79e23af5, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 37
     codeNextPoint: 26000000
@@ -320,23 +394,29 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: e149f8db1a78e3446a475903b3610555, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 38
     codeNextPoint: 27000000
     decisionOptions:
-    - '...'
+    - "No se ve muy contenta de estar aqu\xED\u2026"
     myImage: {fileID: 21300000, guid: 2e9cad9cb02762049ab20a238194840c, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 39
     codeNextPoint: 28000000
     decisionOptions:
-    - '...'
+    - "Tome asiento en la silla del fondo, Isaac ser\xE1 su compa\xF1ero en esta clase."
     myImage: {fileID: 21300000, guid: 7a9fa525b9a4a69459d2d7e8be155db1, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 40
     codeNextPoint: 29000000
@@ -344,47 +424,61 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 6c8b8ce2f035ae64d933d595713a6172, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 41
     codeNextPoint: 2a000000
     decisionOptions:
-    - '...'
+    - "Oh, que hago? Ya viene, ya viene\u2026"
     myImage: {fileID: 21300000, guid: b8b18f3a5326c6d47bafeb64e85e42de, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 42
-    codeNextPoint: 2b000000
+    codeNextPoint: 2b0000002b000000
     decisionOptions:
-    - '...'
+    - Fingir que no la has visto y parecer cool
+    - Saludar
     myImage: {fileID: 21300000, guid: fd58c6385451b9b48abb6e8ce7a4f43f, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 43
     codeNextPoint: 2c000000
     decisionOptions:
-    - '...'
+    - "No te hab\xEDa\u2026"
     myImage: {fileID: 21300000, guid: 38f59d24e1e37af4d96e09a2562ca5a7, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 44
     codeNextPoint: 2d000000
     decisionOptions:
-    - '...'
+    - Se que me viste tarado. Quita tu morral de mi silla.
     myImage: {fileID: 21300000, guid: 7f4ff105d1e25df4f8ac90eaeecae4e7, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 45
-    codeNextPoint: 2e000000
+    codeNextPoint: 2e0000002e000000
     decisionOptions:
-    - '...'
+    - Que te pasa?
+    - JE JE JE XDDDDDDDDDDDDD
     myImage: {fileID: 21300000, guid: c9c397a9ac6797e4b99d8439b19a27e7, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 46
     codeNextPoint: 2f000000
@@ -392,15 +486,20 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: a01ff2b4042d246418c47c111bf06cd4, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 47
-    codeNextPoint: 30000000
+    codeNextPoint: 3000000030000000
     decisionOptions:
-    - '...'
+    - 'Calmarse unos segundos '
+    - 'Mover el morral de inmediato '
     myImage: {fileID: 21300000, guid: f2bbcd76f234f394a9a71518b4192af1, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 48
     codeNextPoint: 31000000
@@ -408,7 +507,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: 78b2f89cdba93cd48b5aab102b61cc92, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 49
     codeNextPoint: 32000000
@@ -416,7 +517,9 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: f7cd921afa614ea4488fc0d63777927c, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 50
     codeNextPoint: 33000000
@@ -424,15 +527,20 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: d582cf9325e9fd840bf00a1ee4bc1634, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 51
     codeNextPoint: 34000000
     decisionOptions:
-    - '...'
+    - "Bien hecho, compa\xF1ero de qu\xEDmica\u2026 contigo me esperan las mejores
+      calificaciones"
     myImage: {fileID: 21300000, guid: 3631c406b51e14f44aed1f18bfc57a1c, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 52
     codeNextPoint: 35000000
@@ -440,5 +548,7 @@ MonoBehaviour:
     - '...'
     myImage: {fileID: 21300000, guid: ca4155eed1f806542aaaa08c7e7d2d2d, type: 3}
     myClip: {fileID: 0}
-    isFinalFrame: 0
-    nextScene: 0
+    song: {fileID: 0}
+    isFinalFrame: 1
+    isTimeToChangeSong: 0
+    nextScene: 2

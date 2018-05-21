@@ -151,6 +151,7 @@ MonoBehaviour:
   - {fileID: 283628199}
   mySaveM: {fileID: 148435319}
   myAudio: {fileID: 148435320}
+  myMusic: {fileID: 632139097}
 --- !u!4 &148435318
 Transform:
   m_ObjectHideFlags: 0
@@ -840,7 +841,7 @@ GameObject:
   - component: {fileID: 632139098}
   - component: {fileID: 632139097}
   m_Layer: 0
-  m_Name: Springtime stroll Flawless loop
+  m_Name: Music
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -855,7 +856,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 166b4ed57295ccb4b9347088b23642a6, type: 3}
+  m_audioClip: {fileID: 8300000, guid: c7078285a3753cc4f9e09b8558bbf876, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
