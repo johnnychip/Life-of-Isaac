@@ -37,7 +37,7 @@ public class GameManager : MonoBehaviour {
 
 	public void SetUpPoint()
 	{
-		currentPointCode = mySaveM.LoadGame();
+		//currentPointCode = mySaveM.LoadGame();
 
 		currentPoint = myDataBase.decision[currentPointCode];
 
@@ -88,7 +88,7 @@ public class GameManager : MonoBehaviour {
 		
 		myMusic.clip = newSong;
 		myMusic.Play();
-		myMusic.DOFade(1f, 0.15f);
+		myMusic.DOFade(0.4f, 0.15f);
 	}	
 
 	IEnumerator Fade(AudioClip newSong) {

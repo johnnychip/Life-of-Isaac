@@ -13,338 +13,730 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   decision:
   - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: cd43a8d83cff52d4980fe016cae88b25, type: 3}
+    codeNextPoint: 01000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: bfb6aa3be31ce3f40a89154c32a5fdc2, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 9cfa57913ede79844a7750481af001eb, type: 3}
+  - codePoint: 1
+    codeNextPoint: 02000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 1493d433698b17c41a358fc023d63565, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 2d83561e528220f46972eac1825978e7, type: 3}
+  - codePoint: 2
+    codeNextPoint: 03000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: a9ef560b21bedc7488693209728a0624, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 22ea9557e19e2fa4886916a470ee2ffa, type: 3}
+  - codePoint: 3
+    codeNextPoint: 04000000
+    decisionOptions:
+    - Que bien! mi sandwich de mantequilla de mani no se ha estropeado despues de
+      este dia tan movido. Solo faltaria que un ave me lo arrebatara.
+    myImage: {fileID: 21300000, guid: ae1d5f8709a66b74f8acd61437f205ce, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 4da21ccc288a4ac4c992b4c0b906615b, type: 3}
+  - codePoint: 4
+    codeNextPoint: 05000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: d98eb979a9b6f3043b0c10db971c3d9a, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 616828067be5aeb478a80e1ad39c1492, type: 3}
+  - codePoint: 5
+    codeNextPoint: 06000000
+    decisionOptions:
+    - Ni te lo pienses amigo!
+    myImage: {fileID: 21300000, guid: 6e53938a32502a14b8e09d061677d2d5, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 153dbe42cc36e774f8d6c0c15e1f73a5, type: 3}
+  - codePoint: 6
+    codeNextPoint: 07000000
+    decisionOptions:
+    - Caw!
+    myImage: {fileID: 21300000, guid: 19c0378cc011cf94db3d17d0ca5a7b7e, type: 3}
+    myClip: {fileID: 8300000, guid: ff236e11514968547b8a6780f53a6969, type: 3}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 7
+    codeNextPoint: 08000000
+    decisionOptions:
+    - "Ah, no me mires asi\u2026 estas solo igual que todos."
+    myImage: {fileID: 21300000, guid: dee4c1c7609465e4b94730d60ce4029c, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 03dd4db6e6adb37468fcf930b3fbefb9, type: 3}
+  - codePoint: 8
+    codeNextPoint: 0b000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 80946a07ac754024381fc667f80ffc6d, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 5be181d860a63e84685660fd70102445, type: 3}
+  - codePoint: 9
+    codeNextPoint: 0a000000
+    decisionOptions:
+    - Caw!
+    myImage: {fileID: 21300000, guid: 4b7fadd1482fea6479dc65183d18c557, type: 3}
+    myClip: {fileID: 8300000, guid: ff236e11514968547b8a6780f53a6969, type: 3}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 10
+    codeNextPoint: 0b000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 40de2bc29956c3b4fa639cecdfffd7d0, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 4a31b46b262dea34baa50e69d7f3ae9f, type: 3}
+  - codePoint: 11
+    codeNextPoint: 0c000000
+    decisionOptions:
+    - Sabes? hoy ah sido un dia diferente, no se si bueno, pero por lo menos ha sido
+      diferente. Se podria decir que ya tengo una amiga, o una enemiga jaja, no se.
+    myImage: {fileID: 21300000, guid: e55213581d65e224c8344c45e6fcf2c4, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: abab9b68dd0f109448994d50432421f8, type: 3}
+  - codePoint: 12
+    codeNextPoint: 0d000000
+    decisionOptions:
+    - Caw!
+    myImage: {fileID: 21300000, guid: 1f9e49e5e6364b44c87a1cf1ec176af0, type: 3}
+    myClip: {fileID: 8300000, guid: ff236e11514968547b8a6780f53a6969, type: 3}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 13
+    codeNextPoint: 0e000000
+    decisionOptions:
+    - "Pronto terminara este a\xF1o y tendre que escoger a \tque universidad ir, no
+      tengo la menor idea, tu si?"
+    myImage: {fileID: 21300000, guid: ca61b59233ee70d46abacad06875c319, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 337036a17fda9ce4dba04cf5dcaf865f, type: 3}
+  - codePoint: 14
+    codeNextPoint: 0f000000
+    decisionOptions:
+    - Vete de una vez, tengo que trabajar
+    myImage: {fileID: 21300000, guid: 95465890b2a45e143bfa94ddfa72bd1b, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 2435509d4e5674148a0a08df617559c6, type: 3}
+  - codePoint: 15
+    codeNextPoint: 10000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 20695fcf144440e419aefe1a5df7213d, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 677e23c466a75814db8fb07e082d790e, type: 3}
+  - codePoint: 16
+    codeNextPoint: 11000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: e40a60c0b593d9a4f8d33fbcb9d28f5f, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 3e962bc81ac3ad447b61044f3888ed6b, type: 3}
+  - codePoint: 17
+    codeNextPoint: 12000000
+    decisionOptions:
+    - Lukas estoy ansioso por llegar a casa y contarte todo lo que ha sucedido.
+    myImage: {fileID: 21300000, guid: 3d50b57a9eac13a45bc74ec10516581d, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: d2492fd0629ed9b45865f02e8c8f8959, type: 3}
+  - codePoint: 18
+    codeNextPoint: 13000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 1b04cace10f3e514091b705a5c7d68fb, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 1d2d51353edc3744bb8ab10293f04e1a, type: 3}
+  - codePoint: 19
+    codeNextPoint: 14000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: e75b7c3cbca101e4195cc42966351eec, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: d30129892d6487343a38c84ffad51d5f, type: 3}
+  - codePoint: 20
+    codeNextPoint: 15000000
+    decisionOptions:
+    - Ahora si empezare con mi tarea de literatura
+    myImage: {fileID: 21300000, guid: 38862208a2f04f0459974c777220ec56, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 68bc47e157642e04d8df3d1090f181f5, type: 3}
+  - codePoint: 21
+    codeNextPoint: 16000000
+    decisionOptions:
+    - "Si estas en medio de una discusi\xF3n, como prefieres solucionar las cosas?"
+    myImage: {fileID: 21300000, guid: bf69515e71e0c0f449d0eb9a916f1bab, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: b19db67ae8a5a314f8862c822afc455d, type: 3}
+  - codePoint: 22
+    codeNextPoint: 1700000017000000
+    decisionOptions:
+    - "Argumentando mi opini\xF3n"
+    - "Insultando y gritandole al otro hasta que entre en raz\xF3n"
+    myImage: {fileID: 21300000, guid: bf69515e71e0c0f449d0eb9a916f1bab, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 9e7549fc9006bc74582634b9a1c39ef7, type: 3}
+  - codePoint: 23
+    codeNextPoint: 18000000
+    decisionOptions:
+    - "Que crees que es m\xE1s coherente?"
+    myImage: {fileID: 21300000, guid: bf69515e71e0c0f449d0eb9a916f1bab, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: fb71b0892be85614e9dbf5ba3a1b5413, type: 3}
+  - codePoint: 24
+    codeNextPoint: 1900000019000000
+    decisionOptions:
+    - Vivir para trabajar
+    - Trabajar para vivir
+    myImage: {fileID: 21300000, guid: bf69515e71e0c0f449d0eb9a916f1bab, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 3955bd71fec72b543a5971e455983097, type: 3}
+  - codePoint: 25
+    codeNextPoint: 1a000000
+    decisionOptions:
+    - Que prefieres?
+    myImage: {fileID: 21300000, guid: bf69515e71e0c0f449d0eb9a916f1bab, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: bb569402262836148a38a07cfb402739, type: 3}
+  - codePoint: 26
+    codeNextPoint: 1b0000001b000000
+    decisionOptions:
+    - Leer un capitulo de un libro
+    - 'Ver una pelicula '
+    myImage: {fileID: 21300000, guid: bf69515e71e0c0f449d0eb9a916f1bab, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: fef0d0777071ee54e96d5e441df55e6e, type: 3}
+  - codePoint: 27
+    codeNextPoint: 1c000000
+    decisionOptions:
+    - Si ves a alguien robando una compa~ia que no te agrada que haces?
+    myImage: {fileID: 21300000, guid: bf69515e71e0c0f449d0eb9a916f1bab, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: cb3252c4e410b7c47a93beda5f93f910, type: 3}
+  - codePoint: 28
+    codeNextPoint: 1d0000001d000000
+    decisionOptions:
+    - Vas a la policia
+    - Pasas como si no hubieras visto nada
+    myImage: {fileID: 21300000, guid: bf69515e71e0c0f449d0eb9a916f1bab, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 9fef8208679c1244c82e3e7200b7b4b8, type: 3}
+  - codePoint: 29
+    codeNextPoint: 1e000000
+    decisionOptions:
+    - Que prefieres?
+    myImage: {fileID: 21300000, guid: bf69515e71e0c0f449d0eb9a916f1bab, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 1245d1b05babc3241b43d870d7eafbf3, type: 3}
+  - codePoint: 30
+    codeNextPoint: 1f0000001f000000
+    decisionOptions:
+    - Blanco
+    - Negro
+    myImage: {fileID: 21300000, guid: bf69515e71e0c0f449d0eb9a916f1bab, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: d89f3f04fc017a744a6892560548da17, type: 3}
+  - codePoint: 31
+    codeNextPoint: 20000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 8f7ff9b957224534b831e1d648923d58, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 318d3a1e508a3d640a5ed6c52cbc7325, type: 3}
+  - codePoint: 32
+    codeNextPoint: 21000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 7cdbd0a6e7634704395a543af6e87b5e, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 8300000, guid: ddf125b0c66bdf046a4db1d1b3e64545, type: 3}
     isFinalFrame: 0
+    isTimeToChangeSong: 1
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: da6c2ede189bcd6408b1771f1a1bbf12, type: 3}
+  - codePoint: 33
+    codeNextPoint: 22000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: e2e9b036c17cb2b4d9da7096f366c605, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 39e5e9f246deba1489a5bbad7155ddeb, type: 3}
+  - codePoint: 34
+    codeNextPoint: 23000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: f6f3fa4f1e15a524ba739328568fed80, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: d9c83c76b49c1e04c9311614ccac12a8, type: 3}
+  - codePoint: 35
+    codeNextPoint: 24000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: b8f7af1f2b9772946b7d314bc0dcbc63, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: d8ff7a55b929af94fab620fadac1fa71, type: 3}
+  - codePoint: 36
+    codeNextPoint: 25000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 6a37d43b7db83994fa812375cc1db473, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 719d84e8a01894f4d838c0f423eafd6e, type: 3}
+  - codePoint: 37
+    codeNextPoint: 26000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 9269d732b210cd143a3a45b7f37ddf0e, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: a2002a62be9411b44b894d7e9c4957c9, type: 3}
+  - codePoint: 38
+    codeNextPoint: 27000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 6b637da6b73fae4458298f3d09ac07ff, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: e1f16647d9298f346b80cec4f4f2a04d, type: 3}
+  - codePoint: 39
+    codeNextPoint: 28000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: db70a21ff08f22246bfd532c5a599e3e, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 6c8d35e81a3541c43ae2f724694c1698, type: 3}
+  - codePoint: 40
+    codeNextPoint: 29000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 72e814d8745e19c47ae6c415a2a6ccdf, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 9ed38e50e2c9c8940ad73ec17e7fd647, type: 3}
+  - codePoint: 41
+    codeNextPoint: 2a000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 3bd8296858ac9e1429cd26bd69b60f38, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 133ccbe237dccec4ea667a4a45401a31, type: 3}
+  - codePoint: 42
+    codeNextPoint: 2b000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 732cb7a640c375242a0de6de004ccc3c, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: cf9c9e4f0c6553444ac31f03363da0c7, type: 3}
+  - codePoint: 43
+    codeNextPoint: 2c000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 5137545cbe964b840876fbc412bc6611, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 718b5191a4d1f0545bd9077ddd46633f, type: 3}
+  - codePoint: 44
+    codeNextPoint: 2d000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: ee30f01cc12977b449c4c095828cc208, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 93a07dc279168c5418e3cb0698358ebe, type: 3}
+  - codePoint: 45
+    codeNextPoint: 2e000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 20325a442de0d8c4b98758c9c9f7ff80, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: b566a1782f5b24048b01db94fa690ead, type: 3}
+  - codePoint: 46
+    codeNextPoint: 2f000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 325e8390aebfc914eb61df0985b4bafe, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: bc9164c0dce306741a062413ac1e7baf, type: 3}
+  - codePoint: 47
+    codeNextPoint: 30000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 76943e558dd909f4f85e3f509a2c59e3, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: 5a538d910c0738b4f8fb5c9ff61d3e2d, type: 3}
+  - codePoint: 48
+    codeNextPoint: 31000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 7ae8912ed8ad822448cc434e1fd5b7ca, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: f4a1fdc9ff16e03438fdf994d4db895c, type: 3}
+  - codePoint: 49
+    codeNextPoint: 32000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: a34f3ecefc0a4af47a8901e568a77b4b, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
-  - codePoint: 0
-    codeNextPoint: 
-    decisionOptions: []
-    myImage: {fileID: 21300000, guid: af08a7dc573f87b4db7217058cdf3000, type: 3}
+  - codePoint: 50
+    codeNextPoint: 33000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 931219268a5f2514f948585b35e38835, type: 3}
     myClip: {fileID: 0}
+    song: {fileID: 0}
     isFinalFrame: 0
+    isTimeToChangeSong: 0
     nextScene: 0
+  - codePoint: 51
+    codeNextPoint: 34000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 9aabf56a4eea9194e901e6c1edf7276f, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 52
+    codeNextPoint: 35000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: ac9af30eaee74df43896fe95a8ab30d9, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 53
+    codeNextPoint: 36000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 1aeedfde77a34524db125e4a2bf6b9e0, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 54
+    codeNextPoint: 37000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 07aadaad49200a34da6a7528b74a9afd, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 55
+    codeNextPoint: 38000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: a057d1f3cdc5d3e47a80495d9bfd19c5, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 56
+    codeNextPoint: 39000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: e1c1f585e34e65046ac8181613cd236a, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 57
+    codeNextPoint: 3a000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 1a0e1be9099b0ba49af15356d49855fd, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 58
+    codeNextPoint: 3b000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 332f2ff90f5438042af0e564c31db775, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 59
+    codeNextPoint: 3c000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 7a7a61527a20b3b4c920480529d48773, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 60
+    codeNextPoint: 3d000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: a4e0d1633b23d7a4e8d246feb4b8caba, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 61
+    codeNextPoint: 3e000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 9424eecf68c9b224c8302569f74f237a, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 62
+    codeNextPoint: 3f000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 1f82e2305da56be4d811d448ca038d60, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 63
+    codeNextPoint: 40000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: a5409ab151471c0439a92bb9df83edbb, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 64
+    codeNextPoint: 41000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: e75d5ef165656fa46ba012c12947fc95, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 65
+    codeNextPoint: 42000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 9521538fc0fc47b478b6488686e1c170, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 66
+    codeNextPoint: 43000000
+    decisionOptions:
+    - Que prefieres?
+    myImage: {fileID: 21300000, guid: 2b1d6b6f28ab4304189f6c8fb8b3cd8d, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 67
+    codeNextPoint: 44000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 0ba04efafdcadaf4f91120b195e6c209, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 68
+    codeNextPoint: 45000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 2b59f397fb7962743a2e942e70e85d6f, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 69
+    codeNextPoint: 46000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: fb798c2d49227ec4f8b2789ff3f304d9, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 70
+    codeNextPoint: 47000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 3a02ac3160956d04cb88c54fc245c173, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 71
+    codeNextPoint: 47000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 988f1b30218f8b74885945085696920d, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 1
+    isTimeToChangeSong: 0
+    nextScene: 3

@@ -27,7 +27,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: d93f1c3cd8c982941903f0156f4b6be0, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: c80396e0a14578a4a95515c8316bc803, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -59,7 +59,7 @@ MonoBehaviour:
     - "Diablos, hablan con alguien, y yo solo tengo aqu\xED la foto de Stephen King
       en mi casillero, oh Stephen, supongo que tu no me llevaras a ninguna fiesta\u2026"
     myImage: {fileID: 21300000, guid: 2a38612ce9c8ffa4a965cf77dd9b2e8e, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 29f6876a484109b4aa93cc028f04fda1, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -79,7 +79,7 @@ MonoBehaviour:
     decisionOptions:
     - "\xBFQue pasa \u201Craro\u201D no eres lo suficientemente r\xE1pido?"
     myImage: {fileID: 21300000, guid: 66d115ffec979f144addce27e833e298, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: d86a65256f958af4eae9feaa5cf207ce, type: 3}
     song: {fileID: 8300000, guid: 21a5eb9ffcb61f34eb1aadfe0354af92, type: 3}
     isFinalFrame: 0
     isTimeToChangeSong: 1
@@ -129,7 +129,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: 6c3fdf3f7193f2c45a34518fcbaaf5cd, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 8d72908a9f7925443beb29c3e221851b, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -179,7 +179,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: 56f81e26d4fcd4a48b2eda5cc1f13ff7, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 5a5caf191d8fe6d46bed8a5b6d1d1531, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -199,7 +199,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: 0e1ddd3f7922f7d4295575e4b9577b36, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: bf9b391d56ebe6448bd4a70d9817b3f4, type: 3}
     song: {fileID: 8300000, guid: 73ca3b906277f2244b40db673f9381f6, type: 3}
     isFinalFrame: 0
     isTimeToChangeSong: 1
@@ -229,7 +229,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: dd8071aa3c299e044a02c89b1261e82f, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: d5a485b01e870c24b9f20cc66b361051, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -249,7 +249,7 @@ MonoBehaviour:
     decisionOptions:
     - Diablos, no viste nada.
     myImage: {fileID: 21300000, guid: 1a45617a431ab294c81b5769a738bafd, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 7b73dee3d0a3f3848a520302165a3da5, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -301,7 +301,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: 67b129ffd56fe714092a9f3819c8fc9b, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: fa94311497ff520489114d595ab90591, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -393,7 +393,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: e149f8db1a78e3446a475903b3610555, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 5b94901f7f516e34f96480fbb76fd623, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -526,7 +526,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: d582cf9325e9fd840bf00a1ee4bc1634, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 533de683298b8fb4cb475c93c0139671, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -550,9 +550,9 @@ MonoBehaviour:
     myImage: {fileID: 21300000, guid: ca4155eed1f806542aaaa08c7e7d2d2d, type: 3}
     myClip: {fileID: 0}
     song: {fileID: 0}
-    isFinalFrame: 1
+    isFinalFrame: 0
     isTimeToChangeSong: 0
-    nextScene: 2
+    nextScene: 0
   - codePoint: 53
     codeNextPoint: 36000000
     decisionOptions:
@@ -639,7 +639,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: 5be181d860a63e84685660fd70102445, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: ba03eaaeafbbf6e4cb4260c7ddc4fea8, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -760,7 +760,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: 9e7549fc9006bc74582634b9a1c39ef7, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 0c61f0c6d1bf44444924e6faf2166dc0, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -803,7 +803,7 @@ MonoBehaviour:
       empezado la escuela hoy, habr\xEDa estado en equipo con Alice\u2026 que bien
       se ve el dia de hoy, desearia\u2026"
     myImage: {fileID: 21300000, guid: fef0d0777071ee54e96d5e441df55e6e, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: a1ea5118b89ae3b4db7a47d1aba46716, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -882,7 +882,7 @@ MonoBehaviour:
     isTimeToChangeSong: 0
     nextScene: 0
   - codePoint: 85
-    codeNextPoint: 35000000
+    codeNextPoint: 56000000
     decisionOptions:
     - "Eh hola, soy Alice emm\u2026"
     myImage: {fileID: 21300000, guid: d9c83c76b49c1e04c9311614ccac12a8, type: 3}
@@ -1025,7 +1025,8 @@ MonoBehaviour:
   - codePoint: 99
     codeNextPoint: 64000000
     decisionOptions:
-    - '...'
+    - Pude responder mas normal, ojala algo explote y me saque de este momento tan
+      incomodo. (pensamiento)
     myImage: {fileID: 21300000, guid: f4a1fdc9ff16e03438fdf994d4db895c, type: 3}
     myClip: {fileID: 0}
     song: {fileID: 0}
@@ -1035,11 +1036,193 @@ MonoBehaviour:
   - codePoint: 100
     codeNextPoint: 65000000
     decisionOptions:
-    - Puede responder mas normal, ojala algo explote y me saque de este momento tan
-      incomodo. (pensamiento)
+    - '...'
     myImage: {fileID: 21300000, guid: af08a7dc573f87b4db7217058cdf3000, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 8300000, guid: 097c7fbe6d75a2645b8be0cfe3ce177a, type: 3}
+    isFinalFrame: 0
+    isTimeToChangeSong: 1
+    nextScene: 0
+  - codePoint: 101
+    codeNextPoint: 66000000
+    decisionOptions:
+    - 'Wow genial! viste eso? '
+    myImage: {fileID: 21300000, guid: 2a71b4a04371e3445b310c342b56ac18, type: 3}
+    myClip: {fileID: 8300000, guid: 377ada50159babe42bad73679f991a22, type: 3}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 102
+    codeNextPoint: 67000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 2710bd539ab93a647b8ac630c4154979, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 8300000, guid: d48d4fe6521380e42b7f94c875fcaf38, type: 3}
+    isFinalFrame: 0
+    isTimeToChangeSong: 1
+    nextScene: 0
+  - codePoint: 103
+    codeNextPoint: 68000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 0dfef986093958f4b80b5fe5b115dd65, type: 3}
     myClip: {fileID: 0}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
     nextScene: 0
+  - codePoint: 104
+    codeNextPoint: 69000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: dd340143c8bed914184dc84428e93be1, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 105
+    codeNextPoint: 6a000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 1537fbd88c4e33c4fabb68f525574dca, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 106
+    codeNextPoint: 6b000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 75f6b2e660c87c643bd5332cba5689d0, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 107
+    codeNextPoint: 6c000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 7a6350de98a4b9b408bb51e26c5679d6, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 108
+    codeNextPoint: 6d000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 2e119e3ce95eec9439a2fe0d120bf8d9, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 109
+    codeNextPoint: 6e000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: d3f139a8f38241d4ba852c93b5063b79, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 110
+    codeNextPoint: 6f000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: be5076c3645160044a12505514f2cb2b, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 111
+    codeNextPoint: 70000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 6c3c9d52ab104744d88d3fa6a666a1db, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 112
+    codeNextPoint: 71000000
+    decisionOptions:
+    - No me has traido nada de suerte el dia de hoy.
+    myImage: {fileID: 21300000, guid: c4fd51654b740d345b69e0dabb1ce3b5, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 113
+    codeNextPoint: 72000000
+    decisionOptions:
+    - Te a faltado ponerte el amuleto de Mara para casarte hoy mismo casanova.
+    myImage: {fileID: 21300000, guid: d336fd4312b7cec48abf8e38558b3fa0, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 114
+    codeNextPoint: 73000000
+    decisionOptions:
+    - Jajaja gracias por el consejo hechicera.
+    myImage: {fileID: 21300000, guid: 32014d4bb3a044a42b77e3070a9c4a8f, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 115
+    codeNextPoint: 74000000
+    decisionOptions:
+    - "Por lo menos juega skyrim esa chica rara\u2026"
+    myImage: {fileID: 21300000, guid: 5ca70587405053348ae85c3fa08953b2, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 116
+    codeNextPoint: 75000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: d87fd2b965602694eaaddd19a6dc8997, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 117
+    codeNextPoint: 76000000
+    decisionOptions:
+    - "No termino nada bien el encuentro con Alice, supongo que es definitivo que
+      no tengo una maldita oportunidad con ella. Hoy todos los dioses se juntaron
+      y la pusieron en mi equipo pero ese tipo por andar flipado casi nos hace volar
+      a todos por los cielos jaja, puedo acabar con mi sufrimiento jaja\u2026"
+    myImage: {fileID: 21300000, guid: f8e5aee7548539f4c9d8a24adf654c52, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 118
+    codeNextPoint: 77000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: a7bd8440a1588a542bb86a13e4dcdcb3, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 1
+    isTimeToChangeSong: 0
+    nextScene: 2
