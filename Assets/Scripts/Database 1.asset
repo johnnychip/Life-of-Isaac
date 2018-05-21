@@ -545,10 +545,501 @@ MonoBehaviour:
   - codePoint: 52
     codeNextPoint: 35000000
     decisionOptions:
-    - '...'
+    - "Siempre eres as\xED de simp\xE1tica?"
+    - "Mmm\u2026"
     myImage: {fileID: 21300000, guid: ca4155eed1f806542aaaa08c7e7d2d2d, type: 3}
     myClip: {fileID: 0}
     song: {fileID: 0}
     isFinalFrame: 1
     isTimeToChangeSong: 0
     nextScene: 2
+  - codePoint: 53
+    codeNextPoint: 36000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: cd43a8d83cff52d4980fe016cae88b25, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 54
+    codeNextPoint: 37000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 9cfa57913ede79844a7750481af001eb, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 55
+    codeNextPoint: 38000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 2d83561e528220f46972eac1825978e7, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 56
+    codeNextPoint: 39000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 22ea9557e19e2fa4886916a470ee2ffa, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 57
+    codeNextPoint: 3a000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 4da21ccc288a4ac4c992b4c0b906615b, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 58
+    codeNextPoint: 3b000000
+    decisionOptions:
+    - "Ding ding ding, 10 puntos para Isaac el dia de hoy ha logrado conseguir una
+      archi enemiga, aplausos, aplausos\u2026 Supongo que por algo se empieza."
+    myImage: {fileID: 21300000, guid: 616828067be5aeb478a80e1ad39c1492, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 59
+    codeNextPoint: 3c000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 153dbe42cc36e774f8d6c0c15e1f73a5, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 60
+    codeNextPoint: 3d000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 03dd4db6e6adb37468fcf930b3fbefb9, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 61
+    codeNextPoint: 3e000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 5be181d860a63e84685660fd70102445, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 62
+    codeNextPoint: 3f000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 4a31b46b262dea34baa50e69d7f3ae9f, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 63
+    codeNextPoint: 40000000
+    decisionOptions:
+    - "Vamos a empezar con el experimento mejor\u2026"
+    myImage: {fileID: 21300000, guid: abab9b68dd0f109448994d50432421f8, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 64
+    codeNextPoint: 41000000
+    decisionOptions:
+    - "Manos a la obra raro, si terminamos r\xE1pido no tendre que desperdiciar mi
+      existencia aqu\xED."
+    myImage: {fileID: 21300000, guid: 337036a17fda9ce4dba04cf5dcaf865f, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 65
+    codeNextPoint: 42000000
+    decisionOptions:
+    - "Busca estos ingredientes y yo me encargo de los c\xE1lculos."
+    myImage: {fileID: 21300000, guid: 2435509d4e5674148a0a08df617559c6, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 66
+    codeNextPoint: 43000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 677e23c466a75814db8fb07e082d790e, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 67
+    codeNextPoint: 44000000
+    decisionOptions:
+    - Tranquilo viejo.
+    myImage: {fileID: 21300000, guid: 3e962bc81ac3ad447b61044f3888ed6b, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 68
+    codeNextPoint: 45000000
+    decisionOptions:
+    - "Se\xF1or..."
+    myImage: {fileID: 21300000, guid: d2492fd0629ed9b45865f02e8c8f8959, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 69
+    codeNextPoint: 46000000
+    decisionOptions:
+    - "Si se\xF1or."
+    myImage: {fileID: 21300000, guid: 1d2d51353edc3744bb8ab10293f04e1a, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 70
+    codeNextPoint: 47000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: d30129892d6487343a38c84ffad51d5f, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 71
+    codeNextPoint: 48000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 68bc47e157642e04d8df3d1090f181f5, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 72
+    codeNextPoint: 49000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: b19db67ae8a5a314f8862c822afc455d, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 73
+    codeNextPoint: 4a000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 9e7549fc9006bc74582634b9a1c39ef7, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 74
+    codeNextPoint: 4b000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: fb71b0892be85614e9dbf5ba3a1b5413, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 75
+    codeNextPoint: 4c000000
+    decisionOptions:
+    - "Oh la hermosa Alice, su cabello dorado como el oro que le cost\xF3 a la corona
+      de la alianza la traici\xF3n a el rey Terenas por parte de su hijo Arthas."
+    myImage: {fileID: 21300000, guid: 3955bd71fec72b543a5971e455983097, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 76
+    codeNextPoint: 4d000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: bb569402262836148a38a07cfb402739, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 77
+    codeNextPoint: 4e000000
+    decisionOptions:
+    - "NOOOO, por que a mi? si la se\xF1orita \u201Chola soy darks\u201D no hubiera
+      empezado la escuela hoy, habr\xEDa estado en equipo con Alice\u2026 que bien
+      se ve el dia de hoy, desearia\u2026"
+    myImage: {fileID: 21300000, guid: fef0d0777071ee54e96d5e441df55e6e, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 78
+    codeNextPoint: 4f000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: cb3252c4e410b7c47a93beda5f93f910, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 79
+    codeNextPoint: 50000000
+    decisionOptions:
+    - "A llegado muy tarde el dia de hoy se\xF1orita Miller y todos los estudiantes
+      tienen pareja. Solo por esta vez le permitir\xE1 el ingreso a clase, vaya al
+      fondo al equipo de Isaac y nuestra nueva estudiante la se\xF1orita Grey."
+    myImage: {fileID: 21300000, guid: 9fef8208679c1244c82e3e7200b7b4b8, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 80
+    codeNextPoint: 51000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 1245d1b05babc3241b43d870d7eafbf3, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 81
+    codeNextPoint: 52000000
+    decisionOptions:
+    - "Queeeee? no puedo creerlo. Tengo que ir ya antes de que Dr\xE1cula la espante
+      horrorizada."
+    myImage: {fileID: 21300000, guid: d89f3f04fc017a744a6892560548da17, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 82
+    codeNextPoint: 53000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 318d3a1e508a3d640a5ed6c52cbc7325, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 83
+    codeNextPoint: 54000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: da6c2ede189bcd6408b1771f1a1bbf12, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 84
+    codeNextPoint: 55000000
+    decisionOptions:
+    - Hola soy Isaac
+    myImage: {fileID: 21300000, guid: 39e5e9f246deba1489a5bbad7155ddeb, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 85
+    codeNextPoint: 35000000
+    decisionOptions:
+    - "Eh hola, soy Alice emm\u2026"
+    myImage: {fileID: 21300000, guid: d9c83c76b49c1e04c9311614ccac12a8, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 86
+    codeNextPoint: 57000000
+    decisionOptions:
+    - "Por que actuas tan extra\xF1o? Dios, se a quedado pasmado, sigue vivo?"
+    myImage: {fileID: 21300000, guid: d8ff7a55b929af94fab620fadac1fa71, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 87
+    codeNextPoint: 58000000
+    decisionOptions:
+    - "Yo estoy muy bien, nunca hab\xEDa estado mejor."
+    myImage: {fileID: 21300000, guid: 719d84e8a01894f4d838c0f423eafd6e, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 88
+    codeNextPoint: 59000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: a2002a62be9411b44b894d7e9c4957c9, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 89
+    codeNextPoint: 5a000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: e1f16647d9298f346b80cec4f4f2a04d, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 90
+    codeNextPoint: 5b000000
+    decisionOptions:
+    - "En que carajos estabas pensando Isaac, ahora que? quita esa mirada de acosador
+      de tu cara\u2026"
+    myImage: {fileID: 21300000, guid: 6c8d35e81a3541c43ae2f724694c1698, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 91
+    codeNextPoint: 5c000000
+    decisionOptions:
+    - Disculpen que llegue tan tarde mi familia es un caos.
+    myImage: {fileID: 21300000, guid: 9ed38e50e2c9c8940ad73ec17e7fd647, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 92
+    codeNextPoint: 5d000000
+    decisionOptions:
+    - Eso no te hace especial Michael Jackson.
+    myImage: {fileID: 21300000, guid: 133ccbe237dccec4ea667a4a45401a31, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 93
+    codeNextPoint: 5e000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: cf9c9e4f0c6553444ac31f03363da0c7, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 94
+    codeNextPoint: 5f000000
+    decisionOptions:
+    - Quien lo diria, las elfas de sangre pura tambien sufren.
+    myImage: {fileID: 21300000, guid: 718b5191a4d1f0545bd9077ddd46633f, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 95
+    codeNextPoint: 60000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 93a07dc279168c5418e3cb0698358ebe, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 96
+    codeNextPoint: 61000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: b566a1782f5b24048b01db94fa690ead, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 97
+    codeNextPoint: 62000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: bc9164c0dce306741a062413ac1e7baf, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 98
+    codeNextPoint: 63000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: 5a538d910c0738b4f8fb5c9ff61d3e2d, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 99
+    codeNextPoint: 64000000
+    decisionOptions:
+    - '...'
+    myImage: {fileID: 21300000, guid: f4a1fdc9ff16e03438fdf994d4db895c, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
+  - codePoint: 100
+    codeNextPoint: 65000000
+    decisionOptions:
+    - Puede responder mas normal, ojala algo explote y me saque de este momento tan
+      incomodo. (pensamiento)
+    myImage: {fileID: 21300000, guid: af08a7dc573f87b4db7217058cdf3000, type: 3}
+    myClip: {fileID: 0}
+    song: {fileID: 0}
+    isFinalFrame: 0
+    isTimeToChangeSong: 0
+    nextScene: 0
