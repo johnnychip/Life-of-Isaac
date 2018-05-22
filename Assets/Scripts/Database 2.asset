@@ -475,7 +475,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: 20325a442de0d8c4b98758c9c9f7ff80, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 0e30d481777f1c844815edc45c60efc4, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -725,7 +725,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: 3a02ac3160956d04cb88c54fc245c173, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: d08427532b8de66499e6e93bf67c6605, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0

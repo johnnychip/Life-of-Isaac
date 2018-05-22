@@ -38,7 +38,7 @@ MonoBehaviour:
     - "Han pasado 3 meses desde el inicio de las clases, no he conocido a nadie nuevo,
       que asco\u2026"
     myImage: {fileID: 21300000, guid: 98f3d333b0f7c8146b75278fe7327d29, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 98d269fc353aafc43aa50e1733c261d0, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -846,7 +846,7 @@ MonoBehaviour:
     - "Queeeee? no puedo creerlo. Tengo que ir ya antes de que Dr\xE1cula la espante
       horrorizada."
     myImage: {fileID: 21300000, guid: d89f3f04fc017a744a6892560548da17, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 6e70340541958384f8638e1cb787e14f, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -906,7 +906,7 @@ MonoBehaviour:
     decisionOptions:
     - "Yo estoy muy bien, nunca hab\xEDa estado mejor."
     myImage: {fileID: 21300000, guid: 719d84e8a01894f4d838c0f423eafd6e, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: 2b623819e8ea0b044a19fc5361b2de1d, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -937,7 +937,7 @@ MonoBehaviour:
     - "En que carajos estabas pensando Isaac, ahora que? quita esa mirada de acosador
       de tu cara\u2026"
     myImage: {fileID: 21300000, guid: 6c8d35e81a3541c43ae2f724694c1698, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: b6faca9f7ec58034ba642f8d51d41904, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
@@ -1088,7 +1088,7 @@ MonoBehaviour:
     decisionOptions:
     - '...'
     myImage: {fileID: 21300000, guid: 1537fbd88c4e33c4fabb68f525574dca, type: 3}
-    myClip: {fileID: 0}
+    myClip: {fileID: 8300000, guid: b6895109c08a253419a29ec55172640a, type: 3}
     song: {fileID: 0}
     isFinalFrame: 0
     isTimeToChangeSong: 0
